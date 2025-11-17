@@ -2,9 +2,11 @@
 layout: single_page
 ---
 
-{% assign media = site.mindoc_media | where: "page", "source" | sort: "order" %}
+{% assign media = site.mindoc_media | where: "page", "source" | sort: "order" %};[p-0
 
 # Introduction
+
+{% include media_next.html pages=media %}
 
 Word count: 250–450 words
 
