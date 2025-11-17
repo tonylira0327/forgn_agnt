@@ -16,7 +16,7 @@ format:
 credit_(IPTC):
 date_created_(IPTC):
 
-_path: /assets/img/BK_convict.jpeg 
+_path: /assets/img/BK_convicts.jpeg 
 order: '01'
 layout: image_description
 ---
