@@ -2,7 +2,7 @@
 layout: single_page
 ---
 
-{% assign media = site.mindoc_media | where: "page", "source" | sort: "order" %};[p-0
+{% assign media = site.mindoc_media | where: "page", "source" | sort: "order" %}
 
 # Introduction
 
