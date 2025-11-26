@@ -39,6 +39,8 @@ This may also be a space where editorial annotations are provided, such as notes
 
 Please note: some presentations may benefit from a multipage format (rather than one scrolling page, as here). I can make a multipage template available to you as needed.
 
+Introduction - FARA, or the Foreign Agent Registration Act, is a law passed in 1938. Its main purpose is to enforce transparency of foreign agents, who are persons influenced by a foreign principal. As defined by FARA’s official documentation a foreign principal is “(1) a government of a foreign country and a foreign political party; (2) a person outside of the United States unless it is established that such person is a citizen of and domiciled within the United States or (...) organized under or created by the laws of the United States (...); (3) a combination of persons organized under the laws of or having its principal place of business in a foreign country”. FARA fell into obscurity following the World War II period, experiencing a resurgence in 2016. During the WW2 period, however, FARA saw frequent use. All of the sources that are included in this publication are newspaper articles from this era and relate to the many cases that saw FARA called upon. In the following section, we’ll go over a summary of the major events in FARA’s early history.
+
 # About this Source
 
 Word count: 1000 words (excluding footnotes)
