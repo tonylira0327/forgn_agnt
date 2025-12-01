@@ -16,7 +16,7 @@ format:
 credit_(IPTC):
 date_created_(IPTC):
 
-_path: assets/img/GUILTY_AS_FOREIGN_AGENT_BOOKNIGA.jpg
+_path: /assets/img/GUILTY_AS_FOREIGN_AGENT_BOOKNIGA.jpg
 order: '06'
 layout: image_description
 ---
