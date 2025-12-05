@@ -6,13 +6,14 @@ layout: single_page
 
 # Introduction
 
-FARA, or the Foreign Agent Registration Act, is a law passed in 1938. Its main purpose is to enforce transparency of foreign agents, who are persons influenced by a foreign principal. As defined by FARA’s official documentation a foreign principal is “(1) a government of a foreign country and a foreign political party; (2) a person outside of the United States unless it is established that such person is a citizen of and domiciled within the United States or (...) organized under or created by the laws of the United States (...); (3) a combination of persons organized under the laws of or having its principal place of business in a foreign country”. FARA fell into obscurity following World War II period, experiencing a resurgence in 2016.
+FARA, or the Foreign Agent Registration Act, is a law passed in 1938. Its main purpose is to enforce transparency of foreign agents, who are persons influenced by a foreign principal. As defined by FARA’s official documentation a foreign principal is “(1) a government of a foreign country and a foreign political party; (2) a person outside of the United States unless it is established that such person is a citizen of and domiciled within the United States or (...) organized under or created by the laws of the United States (...); (3) a combination of persons organized under the laws of or having its principal place of business in a foreign country”[^1]. FARA fell into obscurity following World War II period, experiencing a resurgence in 2016.
 
 All of the sources that are included in this publication are newspaper articles, specifically from the first few years of its inception, 1938, and relate to the many cases that saw FARA called upon. While not providing new information to the covered cases, these newspapers are a unique source that provides readers with unique dialogues of the time. Specifically, the newspapers' biases and choices regarding emphasis. In certain areas, demonstrate the early understanding of FARA, its uses, and its consequences. The newspapers vary in what times they were published, but all fall within the period of FARA and the end of WW2, with the latest newspaper being published in 1944. For further context, there is a more detailed history of FARA in the About this source section.
 
 # The Source
 
 {% include media_next.html pages=media %} 
+{% include media_next.html pages=media %}
 {% include media_next.html pages=media %}
 {% include media_next.html pages=media %}
 {% include media_next.html pages=media %}
@@ -63,5 +64,6 @@ _Please leave this credit (eliminating this italicized part)_
 
 # References
 
-[^1]: Your footnote tags and texts will go here.
-
+[^1]: Full excerpt for the definition can be found in the official documentation for FARA at
+[https://www.fara.us/assets/htmldocuments/uploads/24375_foreign_agents_registration_act_of_1938_-_secured.pdf
+](url)
