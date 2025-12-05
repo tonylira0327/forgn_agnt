@@ -17,6 +17,6 @@ credit_(IPTC):
 date_created_(IPTC):
 
 _path: /assets/img/GEORGE_SYLVESTER_VIERICK_IN_POLITICAL_HOT_WATER.jpg 
-order: '08'
+order: '11'
 layout: image_description
 ---
