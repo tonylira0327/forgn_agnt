@@ -17,6 +17,6 @@ credit_(IPTC):
 date_created_(IPTC):
 
 _path: /assets/img/VIERECK_CONVICTED_OF_FALSE_REG_page-0001.jpg
-order: '09'
+order: '08'
 layout: image_description
 ---
