@@ -26,8 +26,9 @@ All of the sources that are included in this publication are newspaper articles,
 
 ### Early History
 
-Concern over foreign influence has been on the mind of the United States since the time of Washington. In his farewell address, George Washington expressed his concerns over the power foreign influences could have over the US. Washington states, “the jealousy of a free people ought to be constantly awake, since history and experience prove that foreign influence is one of the most baneful foes of republican government.” 
-FARA’s history officially begins, however, in 1917, with the creation of the Overman committee. The Overman Committee was a precursor of what would eventually become the House Un-American Activities Committee (HUAC). One of the main concerns of the committee was the American Brewers League; mainly, they were concerned with investigating the connection between the league and Germany. In a final report, which they published as an interview with The New York Times, the committee spoke on the league's connection to Germany; however, what they also discovered was the league's use of its funds as a way to manipulate American policy. It’s here that we see the acknowledgement of the threat foreign propaganda poses. 
+Concern over foreign influence has been on the mind of the United States since the time of Washington. In his farewell address, George Washington expressed his concerns over the power foreign influences could have over the US. Washington states, “the jealousy of a free people ought to be constantly awake, since history and experience prove that foreign influence is one of the most baneful foes of republican government.”[3^]
+
+FARA’s history officially begins, however, in 1917, with the creation of the Overman committee. The Overman Committee was a precursor of what would eventually become the House Un-American Activities Committee (HUAC). One of the main concerns of the committee was the American Brewers League; mainly, they were concerned with investigating the connection between the league and Germany[2^]. In a final report, which they published as an interview with The New York Times, the committee spoke on the league's connection to Germany; however, what they also discovered was the league's use of its funds as a way to manipulate American policy. It’s here that we see the acknowledgement of the threat foreign propaganda poses. 
 
 Investigations of foreign influences would receive results again in 1935, with the McCormack-Dickinson committee, a continuation of the Overman and Fish committees, when they published their own report regarding foreign influences.  In the report, the committee writes, “a statute requiring all publicity, propaganda, or public-relations agents or other agents or agencies who represent (...) any foreign government (...) to register with the Secretary of State of the United States”. While the law would not be passed until three years later, FARA would be passed in 1938. Within the report, FARA was proposed as a response to the growing number of Nazi and Communist propagandists throughout the United States. 
 
@@ -68,3 +69,5 @@ _Please leave this credit (eliminating this italicized part)_
 # References
 
 [^1]: Full excerpt for the definition can be found in the official documentation for FARA at https://www.fara.us/resources-other (under the statute, rules, and other authority)
+[2^]: S. RES. 307 - 65 congress (1918-1919)
+[3^]: “Farewell Address | the American Presidency Project” 2025
