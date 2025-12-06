@@ -67,5 +67,4 @@ _Please leave this credit (eliminating this italicized part)_
 
 # References
 
-[^1]: Full excerpt for the definition can be found in the official documentation for FARA at https://www.fara.us/assets/htmldocuments/uploads/24375_foreign_agents_registration_act_of_1938_-_secured.pdf
-
+[^1]: Full excerpt for the definition can be found in the official documentation for FARA at https://www.fara.us/resources-other (under the statute, rules, and other authority)
