@@ -51,7 +51,60 @@ Should you wish to include any supplemental materials--such as specific forms of
 
 # Bibliography
 
-This section should provide a bibliography of all sources cited in your work as well as 
+US, House. 74th Congress, Report No. 153,  1st session. Investigation of Nazi and other propaganda. Fara.us. 1938. https://www.fara.us/assets/htmldocuments/uploads/24383_h._rep._no._74-153_1935.pdf
+
+Special to THE NEW YORK TIMES. 1941. Dec 19 "Laura Ingalls Held as Reich Agent; Flier Says She was Anti-Nazi Spy: Laura Ingalls is Jailed as a German Agent; Flier Says She was Anti-Nazi Spy on Her Own."
+
+Nick Robinson, “Foreign Agents” in an Interconnected World: FARA and the Weaponization of Transparency, 69 Duke Law Journal 1075-1147 (2020). Available at: https://scholarship.law.duke.edu/dlj/vol69/iss5/2
+
+Foreign Agent Registration, title 16 of the United States Code section 611 (1938). https://www.fara.us/assets/htmldocuments/uploads/24375_foreign_agents_registration_act_of_1938_-_secured.pdf
+The New York Times. “SENATORS TELL WHAT BOLSHEVISM in AMERICA MEANS; Overman Committee Not Only Reports on German and Radical Propaganda Here, but Investigates Effect of Doctrines If Made Effective--Makes Suggestions as to Legislation Study of Bolshevist “Law”. Dictatorship of Small Minority. Citizens Have No Rights. How the Peasant Was Cheated. Industrial Stagnation. Revolutionary Tribunals. No Freedom of Speech. Program of Bolshevism. Blow to Civilization. Rallying Cry Here. What It Would Mean. General Statement.” Nytimes.com, 15 June 1919, www.nytimes.com/1919/06/15/archives/senators-tell-what-bolshevism-in-america-means-overman-committee-no.html. Accessed 12 Nov. 2025.
+
+“GUILTY AS FOREIGN AGENT; Representative of Moscow Book House Failed to Register.” The New York Times. December 20, 1939. https://www.nytimes.com/1939/12/20/archives/guilty-as-foreign-agent-representative-of-moscow-book-house-failed.html
+
+
+“BOOKNIGA HEADS CONVICTED BY JURY; Liskin, Rush and Weinberg Guilty of Failing to Register as Soviet Agents.” The New York Times. July 2, 1941. https://www.nytimes.com/1941/07/02/archives/bookniga-heads-convicted-by-jury-liskin-rush-and-weinberg-guilty-of.html
+
+“TRIAL OF 19 OPENS IN NAZI AGENT PLOT; German-American Vocational League and Subsidiary Also Named in Newark Charges.” The New York Times. March 28, 1944. https://www.nytimes.com/1944/03/28/archives/trial-of-19-opens-in-nazi-agent-plot-german-american-vocational.html
+
+“SIX ARE INDICTED AS JAPAN'S AGENTS; Three American Citizens and 3 Japanese Nationals Named as Propagandists TOKYO MONEY IN THE CASE Ralph Townsend, of Scribner's Commentator in Nazi Probe, Among Those Cited.” The New York Times. January 29, 1942. https://www.nytimes.com/1942/01/29/archives/six-are-indicted-as-japans-agents-three-american-citizens-and-3.html?searchResultPosition=1
+
+“Laura Ingalls Held as Reich Agent; Flier Says She Was Anti-Nazi Spy; Laura Ingalls Is Jailed as a German Agent; Flier Says She Was Anti-Nazi Spy on Her Own.” The New York Times. December 19, 1941. https://www.nytimes.com/1941/12/19/archives/laura-ingalls-held-as-reich-agent-flier-says-she-was-antinazi-spy.html?searchResultPosition=1
+
+“VIERECK CONVICTED OF FALSE REGISTRY; Guilty of Concealing Fact He Put Axis Propaganda in the Speeches Others Signed Viereck Is Convicted of Withholding Data In His Registration as Agent for Germany” The New York Times. March 6, 1942. https://www.nytimes.com/1942/03/06/archives/viereck-convicted-of-false-registry-guilty-of-concealing-fact-he.html?searchResultPosition=2
+
+“S. RES. 307 - 465 congress (1918-1919): a resolution authorizing and directing the Committee on the Judiciary to call for certain evidence and documents relating to charges made against the United States Brewers' Association and allied interests and to submit a report of their investigation to the Senate.” September 27, 1918. https://catalog.hathitrust.org/Record/000445506
+
+“Criminal Enforcement.” n.d. Www.fara.us. https://www.fara.us/resources-criminal. 
+
+Washington Post. 2024. “When Hollywood Was Actually Pumping out Soviet Propaganda,” March 8, 2024. https://www.washingtonpost.com/history/2024/03/10/hollywood-soviet-russian-propaganda-films/. 
+
+“VIERECK, NAZI MOUTHPIECE, IS GUILTY” Minneapolis Morning Tribune (1939-1964). March 6, 1942, 286, 1. 
+https://www.proquest.com/newspapers/march-6-1942-page-1-20/docview/1852100623/se-2
+
+    
+ “Nazi Agent on Capitol Hill,” Pittsburgh Post-Gazette. March 13, 1943, 1.
+www.proquest.com/docview/1854335823/F99B05F6094C4E9CPQ/5?accountid=14553&sourcetype=Newspapers 
+“Laura Ingalls To Testify Today” The Washington Post (1923-1954). February 12, 1942, 1.
+https://www.proquest.com/docview/151570143/EA846A1C32A14426PQ/2?accountid=14553&sourcetype=Newspapers 
+
+
+“League Paid Agent’s Way to Germany,” Minneapolis Sunday Tribune and Star Journal (1939-1947). July 12, 1942, 9.
+https://www.proquest.com/docview/1852171804/D1DD7CC046104D18PQ/59?accountid=14553&sourcetype=Newspapers
+
+“German-American Vocational League Linked To Nazi Labor Front at Trial of 19 in Newark” The New York Times (1923-). April 5, 1944, 11.
+https://www.proquest.com/docview/106892890/557ECBED5CBC40F6PQ/17?accountid=14553&sourcetype=Newspapers 
+
+“U.S. WRITER GUILTY AS JAPANESE AGENT” The Philadelphia Inquirer (1934-1969). March 28, 1942, 6. 
+https://www.proquest.com/docview/1833080236/F843654357B64D4CPQ/5?accountid=14553&sourcetype=Newspapers 
+
+“JAPANESE TELLS OF $195,000 PAID FOR PROPAGANDA" St. Louis Post-Dispatch (1923-). May 13, 1942, 2.
+https://www.proquest.com/docview/1875875655/F843654357B64D4CPQ/2?accountid=14553&sourcetype=Newspapers
+   
+“Morning Papers Reached Peak Circulation in ’40” The New York Times. January 25, 1941. https://www.nytimes.com/1941/01/25/archives/morning-papers-reached-peak-circulation-in-40.html.
+
+PEW RESEARCH CENTER. 2023. “Trends and Facts on Newspapers | State of the News Media.” Pew Research Center’s Journalism Project. November 10, 2023. https://www.pewresearch.org/journalism/fact-sheet/newspapers/. 
+
 
 # Credits and Acknowledgments
 
