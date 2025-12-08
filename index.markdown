@@ -130,9 +130,9 @@ _Please leave this credit (eliminating this italicized part)_
 [^7]: “Criminal Enforcement.” Caplin & Drysdale
 [^8]: 1941. New York Times (1923-), Oct 09, 1. 1942.The Minneapolis Morning Tribune (1939-1964), Mar 06, 1. 1943.Pittsburgh Post-Gazette (1927-), Mar 13, 6. 1942. The Washington Post (1923-1954), Feb 12, 1.1942.Minneapolis Star-Journal (1939-1947), Jul 12, 9. 1944. New York Times (1923-), Apr 05, 11
 [^9]: PEW RESEARCH CENTER. 2023. “Trends and Facts on Newspapers, State of the News Media.” Pew Research Center’s Journalism Project. November 10, 2023.
-[^10]: 1935. Los Angeles Times (1923-1995), Sep 13, 1.
-[^11]: 1938. Newsweek, Aug 15, 11
+[^10]: 1935.Los Angeles Times (1923-1995), Sep 13, 1.
+[^11]: 1938.Newsweek, Aug 15, 11.
 [^12]: "Criminal Enforcement.” Caplin & Drysda
-[^13]: 1942. The Globe and Mail (1936-), Jan 29, 13
-[^14]: 1942. The Philadelphia Inquirer Public Ledger (1934-1969), Mar 28, 6. 1942. St.Louis Post-Dispatch (1923-), May 13, 2
+[^13]: 1942.The Globe and Mail (1936-), Jan 29, 13.
+[^14]: 1942. The Philadelphia Inquirer Public Ledger (1934-1969), Mar 28, 6. 1942. St.Louis Post-Dispatch (1923-), May 13, 2.
 
