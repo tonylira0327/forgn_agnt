@@ -122,14 +122,14 @@ _Please leave this credit (eliminating this italicized part)_
 # References
 
 [^1]: Full excerpt for the definition can be found in the official documentation for FARA at https://www.fara.us/resources-other (under the statute, rules, and other authority)
-[^2]: “Farewell Address | the American Presidency Project” 2025
+[^2]: “Farewell Address, the American Presidency Project” 2025
 [^3]: S. RES. 307 - 65 congress (1918-1919)
 [^4]: House of Representatives, Report No. 153,  74th Congress, pg. 23
 [^5]: “Criminal Enforcement.” Caplin & Drysdale
 [^6]: Washington Post. 2024. “When Hollywood Was Actually Pumping out Soviet Propaganda,” March 8, 2024.
 [^7]: “Criminal Enforcement.” Caplin & Drysdale
 [^8]: 1941. New York Times (1923-), Oct 09, 1. 1942.The Minneapolis Morning Tribune (1939-1964), Mar 06, 1. 1943.Pittsburgh Post-Gazette (1927-), Mar 13, 6. 1942. The Washington Post (1923-1954), Feb 12, 1.1942.Minneapolis Star-Journal (1939-1947), Jul 12, 9. 1944. New York Times (1923-), Apr 05, 11
-[^9]: PEW RESEARCH CENTER. 2023. “Trends and Facts on Newspapers | State of the News Media.” Pew Research Center’s Journalism Project. November 10, 2023.
+[^9]: PEW RESEARCH CENTER. 2023. “Trends and Facts on Newspapers, State of the News Media.” Pew Research Center’s Journalism Project. November 10, 2023.
 [^10]: 1935. Los Angeles Times (1923-1995), Sep 13, 1.
 [^11]: 1938. Newsweek, Aug 15, 11
 [^12]: "Criminal Enforcement.” Caplin & Drysda
