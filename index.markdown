@@ -24,7 +24,6 @@ This specific article speaks of the indictment of six men due to their publicati
 {% include media_next.html pages=media %}
 {% include media_next.html pages=media %}
 {% include media_next.html pages=media %}
-{% include media_next.html pages=media %}
 
 # About this Source
 
