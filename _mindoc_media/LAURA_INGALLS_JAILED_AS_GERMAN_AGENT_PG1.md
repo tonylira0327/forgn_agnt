@@ -17,6 +17,6 @@ credit_(IPTC):
 date_created_(IPTC):
 
 _path: /assets/img/LAURA_INGALLS_JAILED_AS_GERMAN_AGENT_PG1.jpg 
-order: '05'
+order: '04'
 layout: image_description
 ---
