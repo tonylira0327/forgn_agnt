@@ -17,6 +17,6 @@ credit_(IPTC):
 date_created_(IPTC):
 
 _path: /assets/img/SIX_ARE_INDICTED_AS_JAPAN_AGENTS_(TOKYO_SIX).jpg 
-order: '03'
+order: '01'
 layout: image_description
 ---
