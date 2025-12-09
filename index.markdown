@@ -10,6 +10,9 @@ FARA, or the Foreign Agent Registration Act, is a law passed in 1938. Its main p
 
 All of the sources that are included in this publication are newspaper articles, specifically from the first few years of its inception, 1938, and relate to the many cases that saw FARA called upon. While not providing new information to the covered cases, these newspapers are a unique source that provides readers with unique dialogues of the time. Specifically, the newspapers' biases and choices regarding emphasis. In certain areas, demonstrate the early understanding of FARA, its uses, and its consequences. The newspapers vary in what times they were published, but all fall within the period of FARA and the end of WW2, with the latest newspaper being published in 1944. For further context, there is a more detailed history of FARA in the About this source section.
 
+### How to Cite:
+Max Ellman, Nick Portollozi, Anthony Lira-Ruelas. "Foreign Agents." Published December 16, 2025. https://tonylira0327.github.io/forgn_agnt/
+
 # The Source
 
 {% include media_next.html pages=media %} 
