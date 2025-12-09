@@ -15,17 +15,8 @@ Max Ellman, Nick Portollozi, Anthony Lira-Ruelas. "Foreign Agents." Published De
 
 # The Source
 
-{% include media_next.html pages=media %} 
-{% include media_next.html pages=media %}
 ### Six are indicted as Japanese agents:
 This specific article speaks of the indictment of six men due to their publication of pro-Japanese propaganda. What’s interesting about this article is its assumption that these men were inherently guilty because they were publishing pro-Japanese propaganda, when, according to FARA, these men did not break the law until they failed to sign up as foreign agents. The newspaper, however, alludes to their publication of propaganda as their main reason for being indicted, despite that not necessarily being the case. It's this rhetoric of inherent guilt as a foreign agent that would make FARA change from a tool to promote transparency to a deterrent against companies taking too much foreign aid.
-{% include media_next.html pages=media %}
-{% include media_next.html pages=media %}
-{% include media_next.html pages=media %}
-{% include media_next.html pages=media %}
-{% include media_next.html pages=media %}
-{% include media_next.html pages=media %}
-{% include media_next.html pages=media %}
 
 # About this Source
 
