@@ -17,6 +17,6 @@ credit_(IPTC): The New York Times
 date_created_(IPTC): December 19, 1941
 
 _path: /assets/img/LAURA_INGALLS_JAILED_AS_GERMAN_AGENT_PG2.jpg
-order: '05'
+order: '04'
 layout: image_description
 ---
