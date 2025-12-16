@@ -3,7 +3,7 @@ page: source
 title: Image_№2_from_Introduction
 media_type: image
 
-_title: Laura Ingalls jailed as a German agent pg2
+_title: Laura Ingalls jailed as a German agent pg1
 description: Second page of an article regarding aviator Laura Ingalls and her relationship and status as a foreign agent of Germany
 creator: The New York Times
 _date: December 19, 1941
