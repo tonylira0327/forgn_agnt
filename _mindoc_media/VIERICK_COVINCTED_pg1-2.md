@@ -16,7 +16,7 @@ format:
 credit_(IPTC):
 date_created_(IPTC):
 
-_path: /assets/img/VIERICK_COVINCTED_pg1-2.png
+_path: /assets/img/VIERICK_COVINCTED_pg1-2.copy.png
 order: '08'
 layout: image_description
 ---
