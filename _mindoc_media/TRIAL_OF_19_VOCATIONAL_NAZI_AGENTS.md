@@ -16,7 +16,7 @@ format: Scanned from the University of Illinois library
 credit_(IPTC): The New York Times
 date_created_(IPTC): March 28, 1944
 
-_path: /assets/img/TRIAL_OF_19_VOCATIONAL_NAZI_AGENTS.jpg
+_path: /assets/img/TRIAL_OF_19_VOCATIONAL_NAZI_AGENTS_COPY.jpg
 order: '02'
 layout: image_description
 ---
