@@ -17,6 +17,6 @@ credit_(IPTC): The New York Times
 date_created_(IPTC): March 28, 1944
 
 _path: /assets/img/trial of 19 cropped_page-0001.jpg
-order: '06'
+order: '02'
 layout: image_description
 ---
