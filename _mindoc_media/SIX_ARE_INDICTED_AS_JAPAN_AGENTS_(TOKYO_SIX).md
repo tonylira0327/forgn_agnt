@@ -1,9 +1,9 @@
 ---
 page: source
-title: Image_№2_from_Introduction
+title: Six Indicted for failure to register as Foreign Agents
 media_type: image
 
-_title: Six are indicted as Japanese agents
+_title: Six Indicted for Failing to Register as Japanese Foreign Agents
 description: Covers the prosecution of 6 individuals responsible for creating Japanese propaganda in the US
 creator: The New York Times
 _date: January 29, 1942
@@ -16,7 +16,7 @@ format: Scanned from the University of Illinois library
 credit_(IPTC): The New York Times
 date_created_(IPTC): July 2, 1941
 
-_path: /assets/img/SIX_ARE_INDICTED_AS_JAPAN_AGENTS_(TOKYO_SIX).jpg 
+_path: /assets/img/Six_indicted_as_Japan_agents_cropped_page-0001.JPG
 order: '01'
 layout: image_description
 ---
