@@ -17,6 +17,6 @@ credit_(IPTC): The New York Times
 date_created_(IPTC): July 2, 1941
 
 _path: /assets/img/BOOKNIGA_HEADS_CONVICTED_BY_JURY.jpg
-order: '07'
+order: '05'
 layout: image_description
 ---
