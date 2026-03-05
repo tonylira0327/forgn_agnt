@@ -10,7 +10,7 @@ _date: July 2, 1941
 rights: The New York Times
 type: Microfilm
 source: The New York Times
-identifier: Reel 1287: University of Illinois Newspaper Library microfilm collection
+identifier: Reel 1287, University of Illinois Newspaper Library microfilm collection
 contributor: The University of Illinois Newspaper Library
 format: Scanned from the University of Illinois library
 credit_(IPTC): The New York Times
