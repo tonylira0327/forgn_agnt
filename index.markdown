@@ -24,7 +24,6 @@ The article below covers the indictment of the American-German Vocational League
 ### Laura Ingalls held As Reich Agent, Flyer Says She Was Anti-Nazi Spy, pg.1-2:
 Laura Ingalls serves an interesting place in the early years of FARA. Ingalls, a known female aviator, voluntarily became a German agent, holding many sympathies for the German Reich. In 1939, Ingalls dropped Pamphlets all over Washington, D.C., promoting anti-intervention sentiments. Ingalls was indicted for failing to register as a Foreign Agent in 1942; among the evidence was the fact that she was receiving $300 from the German government. Ingalls would be sentenced to two years in prison. The Ingalls case shows that FARA was not limited to groups but could indict specific people.
 {% include media_next.html pages=media %}
-{% include media_next.html pages=media %}
 ### Guilty As Foreign Agent:
 In this article, we hear once again about the case against the Bookniga corporation. What's most interesting about this article is its title. While not entirely untrue, it implies that being a foreign agent makes you guilty, which, according to FARA, is not necessarily true. It's this trend of associating guilt with being a Foreign Agent that would result in unintended consequences in the future.
 {% include media_next.html pages=media %}
