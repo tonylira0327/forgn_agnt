@@ -21,6 +21,30 @@ This specific article speaks of the indictment of six men due to their publicati
 ### Trial of 19 Opens in Nazi Agent Plot:
 The article below covers the indictment of the American-German Vocational League and its spreading of pro-German propaganda. The case was massive, indicting many different branches of the league. What’s most interesting about the case is its argument for its innocence, with the league arguing that there was no proof that they received funds from the German government, and because they were just a “social group,” they could therefore not be charged with failing to register as Foreign Agents. The two books which are referenced in the newspaper most likely refer to “Under Cover - My Four Years In The Nazi Underworld Of America” by John Ron Carlson and “Sabotage!: The Secret War Against America” by Michael Sayers and Albert Khan. Both books cover the topic of German sympathy efforts within the United States. It seems that to avoid jury bias, they wanted to avoid anyone reading these books.
 {% include media_next.html pages=media %}
+
+Here is the transcribed source!:
+TRIAL OF 19 OPENS IN NAZI AGENT PLOT
+
+German - American, Vocational League and Subsidiary Also Named in Newark Charges
+
+Special thanks to The New York Times
+
+NEWARK, N. J., March 27-
+Charged with conspiring to act as agents of the German Government, without registering with the State Department and the Department of Justice, as required by Law, the German-American. Vocational League, its subsidiary, D.A.B. Recreational Resort, Inc., and nineteen Individual defendants went on trial in the Federal Building here today before United States District Court Judge Thomin F. Meaney and a jury comprised of eight women, four men, and two male alternates. 
+On motion of the United States Attorney's office severances were granted to eight persons also named in the Indictment handed down here an Oct. 5 of last year.
+Before releasing the jury for the day, Judge Meaney ordered its members not to read the books "Undercover" or "Sabotage" during the course of the trial, which may go on for as long as two months. The Court's directive was issued at the request of defense counsel. 
+Jury Asked About Winchell
+ Mark Townsend of Jersey City, one of ten defense counsels, asked if any jury member listened to Walter Winchell on the radio. Richard Hughes, Assistant United States Attorney, objected, saying: 
+"This is getting silly. Counsel is trying to make a farce of this trial.”
+Judge Meaney barred the question. Before the selection of jury men began, Mr. Townsend protested when the Court announced that the defense would have ten peremptory challenges and the Government six. The lawyer said that ten challenges were "not sufficient with nineteen persons on trial."
+"It's the law." Judge Meaney retorted. "Your quarrel is with Congress." 
+Mr. Hughes, in his opening to the jury. Sald:
+“The Government can't prove	that these defendants were paid for their efforts on behalf of the German Reich. It can be proved by circumstances that, with many others, they knowingly caused the D. A. B. [Deutsch-Amerikanische-Berufsgemeinschaft] to act for a foreign Government without registering with our Government.
+"The D. A. B., which is the German-American Vocational League. didn't want its membership list and activity exposed to public view. The Government will prove that with documents.”
+Charges Two Sets of Books. 
+"We shall prove that the league kept two sets of minute-books. One in English, recounted innocuous details such as beer parties. The other, in German, was more illuminating concerning the league’s true activities. We have those minutes and will produce them.” 
+Mr. Hughes said the Government would prove that the league, recelved $13,000 during 1937-38 from the German Labor Front and used the money to purchase and equip Camp Bergwald at Pompton Lakes, N. J., through its subsidiary, D. A. B., and made the camp another of its propaganda outlets. 
+
 ### Laura Ingalls held As Reich Agent, Flyer Says She Was Anti-Nazi Spy, pg.1-2:
 Laura Ingalls serves an interesting place in the early years of FARA. Ingalls, a known female aviator, voluntarily became a German agent, holding many sympathies for the German Reich. In 1939, Ingalls dropped Pamphlets all over Washington, D.C., promoting anti-intervention sentiments. Ingalls was indicted for failing to register as a Foreign Agent in 1942; among the evidence was the fact that she was receiving $300 from the German government. Ingalls would be sentenced to two years in prison. The Ingalls case shows that FARA was not limited to groups but could indict specific people.
 {% include media_next.html pages=media %}
