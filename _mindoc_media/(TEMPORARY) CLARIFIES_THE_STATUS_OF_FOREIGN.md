@@ -16,7 +16,7 @@ format: Scanned from the University of Illinois library
 credit_(IPTC): The New York Times
 date_created_(IPTC): October 21, 1938
 
-_path: /assets/img/Six_indicted_as_Japan_agents_cropped_page-0001.JPG
+_path: /assets/img/(TEMPORARY) CLARIFIES_THE_STATUS_OF_FOREIG.pdf
 order: '07'
 layout: image_description
 ---
