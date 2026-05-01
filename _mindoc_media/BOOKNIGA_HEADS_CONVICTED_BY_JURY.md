@@ -1,6 +1,6 @@
 ---
 page: source
-title: Image_№2_from_Introduction
+title: Bookniga heads convicted by jury
 media_type: image
 
 _title: Bookniga heads convicted by jury
