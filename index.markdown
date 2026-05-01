@@ -58,6 +58,8 @@ The Bookniga case is the first case to be prosecuted due to FARA, and the only c
 George Vierick serves as an interesting case among the early period of FARA. While Vierick had been registered as a foreign agent, he was still indicted for failure to provide all of the details of his actions as a foreign agent. Vierick, a long-time German apologist, had throughout his life released multiple pieces of propaganda for Germany. After the passing of FARA, Vierick would register as a foreign agent, yet despite this, he would be charged with failing to register because he hid his involvement in writing speeches for former Senator Lundeen. Vierick’s case shows the government’s unwillingness to give any leniency towards failure for complete registration of foreign agents.
 {% include media_next.html pages=media %}
 
+{% include media_next.html pages=media %}
+
 # About this Source
 
 ### Early History
