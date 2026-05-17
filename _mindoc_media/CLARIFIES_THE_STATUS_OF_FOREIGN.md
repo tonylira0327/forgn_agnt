@@ -16,7 +16,7 @@ format: Scanned from the University of Illinois library
 credit_(IPTC): The New York Times
 date_created_(IPTC): October 21, 1938
 
-_path: /assets/img/(TEMPORARY) CLARIFIES_THE_STATUS_OF_FOREIG.pdf
+_path: /assets/img/ALIENS ARE ORDERED TO REGISTER PG.1 & 2.jpg
 order: '07'
 layout: image_description
 ---
