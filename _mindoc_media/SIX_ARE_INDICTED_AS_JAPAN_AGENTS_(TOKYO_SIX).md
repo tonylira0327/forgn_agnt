@@ -1,6 +1,6 @@
 ---
 page: source
-title: Six Indicted for failure to register as Foreign Agents
+title: Six Indicted for Failure to Register as Foreign Agents
 media_type: image
 
 _title: Six Indicted for Failing to Register as Japanese Foreign Agents
