@@ -17,6 +17,6 @@ credit_(IPTC): The New York Times
 date_created_(IPTC): December 19, 1941
 
 _path: /assets/img/Laura-Ingalls pg.1-2 cropped finished.jpg
-order: '03'
+order: '08'
 layout: image_description
 ---
