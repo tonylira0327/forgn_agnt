@@ -17,6 +17,6 @@ credit_(IPTC): The New York Times
 date_created_(IPTC): Nov. 12, 1939
 
 _path: /assets/img/371 REGISTERED AS FOREIGN AGENTS_page-0001.jpg
-order: '02'
+order: '03'
 layout: image_description
 ---
