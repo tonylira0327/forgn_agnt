@@ -17,6 +17,6 @@ credit_(IPTC): The New York Times
 date_created_(IPTC): December 18, 1941
 
 _path: /assets/img/Completed Vierick Source pg.1-2.JPG
-order: '06'
+order: '09'
 layout: image_description
 ---
