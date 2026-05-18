@@ -10,13 +10,13 @@ _date: July 2, 1941
 rights: The New York Times
 type: Microfilm
 source: The New York Times
-identifier: Reel 1287, University of Illinois Newspaper Library microfilm collection
+identifier: University of Illinois Newspaper Library microfilm collection
 contributor: The University of Illinois Newspaper Library
 format: Scanned from the University of Illinois library
 credit_(IPTC): The New York Times
 date_created_(IPTC): July 2, 1941
 
 _path: /assets/img/BOOKNIGA_HEADS_CONVICTED_BY_JURY.jpg
-order: '05'
+order: '03'
 layout: image_description
 ---
