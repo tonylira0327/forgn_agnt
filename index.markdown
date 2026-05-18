@@ -93,6 +93,32 @@ The list of "agents of foreign principals," whose registration statements are no
 	Enforcement of the law is in the hands of the Department of Justice. When the State Department has reason to believe that a person whose activities are covered by  the act has failed to register, it directs his attention, through a form or circular letter, to the provisions of the law. If a registration statement is not forthcoming, the department refers the matter to the Department of Justice. 
 	Though no actual prosecutions have so far been instituted, the Department of Justice has several investigations underway.
 
+## Bookniga Heads Convicted By Jury:
+The Bookniga case is the first case to be prosecuted due to FARA, and the only case we cover from before the war. Interestingly, despite the original concern over German influence in the 1935 McCormack-Dickenstein report, the first case covers Soviet propaganda, though that could be because of the two nations' difference in philosophy, with the Soviets choosing to be more secretive and not officially registering their allies as Foreign Agents. Regardless, in the article, we see how the press refers to FARA in the early days, with it being referred to as the McCormack Act. Despite this, in all future references to the law, it's almost exclusively referenced to as the Foreign Agent law, showing the change in understanding of the law. Further, the article, when speaking on the purpose of the law, states that its purpose was to reveal propagandists within the US, and not necessarily their prosecution. With the Bookniga heads only being prosecuted due to their failure to register as agents.
+
+{% include media_next.html pages=media %}
+
+Transcription:
+
+### Bookniga Convicted by Jury
+
+#### Lisking, Rush, and Weinberg Guilty of Failing to Register as Soviet Agents
+
+WASHINGTON, July 1—Morris Liskin, president; Raphael Rush, vice president, and Norman Weinberg, secretary-treasurer of the Bookniga Corporation of New York, were found guilty tonight by a jury in the District of Columbia Federal Court of conspiracy to prevent the corporation from registering with the Department of State as propaganda agents of a foreign government, as required by the McCormack act. Rush was found guilty on both counts of the indictment, the first count involving failure of the corporation to register and Rush's part in it and the second count charging criminal conspiracy to evade the act. Rush can be fined $1,000 and sentenced to two years in prison on the first count and fined $10,000 and get two years in prison on the second. Weinberg was found guilty only on the first count. Liskin already had pleaded guilty to the same count and been fined $500 but he was convicted on the second and faces a further penalty of $10,000 fine and two years in jail. Justice F. Dickinson Letts, before whom the case was tried, refused bail and ordered the three committed to jail to await sentence. He commended the jury for its verdict. The case is the first that has been prosecuted under the McCormack act. Justice Letts in charging the jury stated that the purpose of Congress in passing the McCormack act was to force out into the open propaganda agents who had been operating under various subterfuges and disguises. He instructed the jurors that the government was under no necessity to produce any formal agreement to establish the fact of a conspiracy, but might prove guilt by circumstantial evidence. During the morning session Leo A. Rover, defense counsel, pleaded the cause of Weinberg, stressing that he was under 21 when his father bought stock for him in the corporation. He contended that the religion of both father and son made it absurd to suppose the defendant could have been in sympathy with the spread of Communist doctrines. In final rebuttal, Benjamin M. Parker, special prosecutor representing the Attorney General, warned the jurors against permitting sympathy to sway their deliberations. "We are here, the government of the United States is here, because the government has been defied by propagandists working for the Soviet and spreading Communist doctrines," he said. “They were selling and spreading their pernicious propaganda in order to destroy us."
+
+## Guilty As Foreign Agent:
+In this article, we hear once again about the case against the Bookniga corporation. What's most interesting about this article is its title. While not entirely untrue, it implies that being a foreign agent makes you guilty, which, according to FARA, is not necessarily true. It's this trend of associating guilt with being a Foreign Agent that would result in unintended consequences in the future.
+
+{% include media_next.html pages=media %}
+
+Transcription:
+
+### Guilty As Foreign Agent
+
+#### Representative of Moscow Book House Failed to Register
+
+ WASHINGTON, Dec.19 (UP)—Morris Liskin, President of the Bookniga Corporation, New York, pleaded guilty in District Court today to one count of an indictment charging him with failure to register with the State Department as a foreign agent. He pleaded not guilty to a second count accusing him of conspiring with two other officers of the corporation, also indicted Saturday, to evade registration. Norman Weimberg, secretary-treasurer of the corporation, pleaded not guilty to both counts. Justice Peyton Gordon held both on a $1,000 bond each. Also indicted was Raphael Rush, a vice president. He is in California fighting extradition. Bookniga was described in the indictment as the distributing agency in the United States for the literature and propaganda of a Moscow publishing house. The indictments were the first obtained in the Justice Department's campaign against unregistered foreign agents.
+
 ## Six are indicted as Japanese agents:
 This specific article speaks of the indictment of six men due to their publication of pro-Japanese propaganda. What’s interesting about this article is its assumption that these men were inherently guilty because they were publishing pro-Japanese propaganda, when, according to FARA, these men did not break the law until they failed to sign up as foreign agents. The newspaper, however, alludes to their publication of propaganda as the main reason for their indictment, even though that is not necessarily the case. It's this rhetoric of inherent guilt as a foreign agent that would transform FARA from a tool to promote transparency into a deterrent against companies accepting excessive foreign aid.
 
@@ -100,88 +126,14 @@ This specific article speaks of the indictment of six men due to their publicati
 
 Transcription:
 
+WASHINGTON, Jan. 28 Six men—three American citizens and three Japanese nationals—were indicted by a Federal Grand Jury today on charges of distributing pro-Japanese propaganda in violation of the Foreign Agents Registration Act. Named in the indictment were: American Citizens-Ralph Townsend of Lake Geneva, Wis., associated with Scribner's Commentator, which has figured in the investigation of Nazi propaganda here; David Warren Ryder, publisher and publicity man in San Francisco, and Frederick Vincent Williams, ex-newspaper man and publicity agent, also of San Francisco. Japanese Nationals - Tsutomu Obana, secretary of the Japanese Chamber of Commerce in San Francisco; K. Takahashi, former manager of the Nippon Yusen Kaisha Steamship Line in San Francisco, and S. Takeuchi, former manager of the Mitsubishi Company, Japanese importers. The indictment accuses the defendants of association with distribution of propaganda here in behalf of Japan and financed by the Japanese Government. The organization, it was stated, used more than $175,000 in this work, most of the money being from the Japanese consul general in San Francisco. Two former Japanese consuls general, Kanzo Shiosaki and Toshito Sato, were charged with co-conspiracy but were not indicted because both of them have returned to their homeland. According to the indictment, the main propaganda agency was the Japanese Committee on Trade and Information, the Jikyoku Iinkai, organized in September, 1937, in San Francisco to distribute propaganda matter and financed both directly and indirectly by the Japanese Government. Williams, according to the indictment, was hired from June, 1938, as a public relations counsel and delivered lectures, wrote articles, arranged radio programs and in other ways took part in the dissemination of pro-Japanese propaganda. Likewise, it was stated, various pamphlets were written and edited in the names of Townsend and Ryder and distributed in this country "in a manner which concealed the foreign political and financial interests responsible." The indictments were the result of an inquiry begun on the West Coast last November by two special assistants of the Attorney General. Townsend, it is understood, was apprehended at Lake Geneva, Wis., and Williams in San Francisco. According to State Department records, Townsend served in the foreign service in China for a year previous to 1933.
+
 ## Trial of 19 Opens in Nazi Agent Plot:
 The article below covers the indictment of the American-German Vocational League and its spreading of pro-German propaganda. The case was massive, indicting many different branches of the league. What’s most interesting about the case is its argument for its innocence, with the league arguing that there was no proof that they received funds from the German government, and because they were just a “social group,” they could therefore not be charged with failing to register as Foreign Agents. The two books which are referenced in the newspaper most likely refer to “Under Cover - My Four Years In The Nazi Underworld Of America” by John Ron Carlson and “Sabotage!: The Secret War Against America” by Michael Sayers and Albert Khan. Both books cover the topic of German sympathy efforts within the United States. It seems that to avoid jury bias, they wanted to avoid anyone reading these books.
 
 {% include media_next.html pages=media %}
 
 Transcribed:
-
-### TRIAL OF 19 OPENS IN NAZI AGENT PLOT
-#### German - American Vocational League and Subsidiary Also Named in Newark Charges
-
-NEWARK, N. J., March 27-
-
-Charged with conspiring to act as agents of the German Government, without registering with the State Department and the Department of Justice, as required by law, the German-American Vocational League, its subsidiary, D.A.B. Recreational Resort, Inc., and nineteen individual defendants went on trial in the Federal Building here today before United States District Court Judge Thomas F. Meaney and a jury comprised of eight women, four men and two male alternates.
-On motion of the United States Attorney's office severances were granted to eight persons also named in the indictment handed down here on Oct. 5 of last year. Before releasing the jury for the day Judge Meaney ordered its members not to read the books “Undercover” or “Sabotage” during the course of the trial, which may go on for as long as two months. The Court's directive was issued at the request of defense counsel.
-Jury Asked About Winchell
-Mark Townsend of Jersey City, one of ten defense counsels, asked if any jury member listened to Walter Winchell on the radio. Richard Hughes, Assistant United States Attorney, objected, saying: "This is getting silly. Counsel is trying to make a farce of this trial."
-Judge Meaney barred the question. Before the selection of jury men began Mr. Townsend protested when the Court announced that the defense would have ten peremptory challenges and the Government six. The lawyer said that ten challenges were "not sufficient with nineteen persons on trial."
-"It's the law," Judge Meaney retorted. "Your quarrel is with Congress."
-Mr. Hughes, in his opening to the jury, said:
-"The Government can't prove that these defendants were paid for their efforts in behalf of the German Reich. It can prove by circumstances that with many others they knowingly caused the D. A. B. [Deutsch-Amerikanische-Berufsgemeinschaft] to act for a foreign Government without registering with our Government.
-"The D. A. B., which is the German-American Vocational League, didn't want its membership list and activities exposed to public view. The Government will prove that with documents."
-Charges Two Sets of Books
-"We shall prove that the league kept two sets of minute books. One, in English, recounted innocuous details such as beer parties. The other, in German, was more illuminating concerning the league's true activities. We have those minutes and will produce them."
-Mr. Hughes said the Government would prove that the league received $13,000 during 1937-38 from the German Labor Front and used the money to purchase and equip Camp Bergwald at Pompton Lakes, N. J., through its subsidiary, D. A. B., and made the camp another of its propaganda outlets.
-
-In addition to the two corporations, persons on trial are:
-
-Fritz Schroeder, New York. national D.A.B. leader.
-
-Joseph Leiblein. New York, national D.A.B. leader and national vice president of the league.
-
-Otto Greiner. Chicago, national deputy D.A.B. leader in charge of the Middle West.
-
-Hans Flohr. Rochester. N. Y.
-
-Gustave Schmidt. Chicago, members of the national board of D.A.B. directors.
-
-Theodore Koehn. New York. editor of In Retrospect. official D.A.B. English language magazine
-
-Hermann Gastreich, Kansas City. Mo.
-
-Albert Kiesler, member of the D.A.B. national board.
-
-Karl T. Marx. New York.
-
-John Kobbe, Rochester, N. Y.
-
-Karl Kranz, leader of the Rochester D.A.B. branch.
-
-Otto Bremer. Philadelphia, now interned as an enemy alien.
-
-Walter Schall, Salt Lake City.
-
-Herman Warth, Guttenberg. N. J.
-
-Emil Schneider. Denver, Col.
-
-Guenther Gibbe, San Francisco, now interned as enemy alien.
-
-Albert R. Bertram, New York, national D.A.B. secretary.
-
-Emil Rodel. San Francisco, former secretary of the German-American Chamber of Commerce.
-
-Paul F. L. Sievers, Denver. Col.
-
-Severances were granted to the following:
-
-Fred Buttig former D.A.B. national head. now in Germany.
-
-Emil Socha. New York, editor of D.A.B. publications.
-
-Fritz Zeglin, former American representative of the German Consulate in San Francisco, now in Germany.
-
-Kurt Beyer, now believed in Germany.
-
-Hans Nissen. Chicago.
-
-Hans Meisner. Philadelphia.
-
-Franz K. Ferenez, in San Quentin Penitentiary for violation of California's sedition laws.
-
-Hans W. Bjoernsen, Los Angeles.
 
 ### TRIAL OF 19 OPENS IN NAZI AGENT PLOT
 
@@ -225,32 +177,6 @@ Laura Ingalls, woman flier, was arraigned before a United States Commissioner to
 
  The following sections detail Miss Ingalls' background, so it was not included here. If you would like to learn more about Laura Ingalls, you can find more details about her and her case at: https://en.wikipedia.org/wiki/Laura_Ingalls_(aviator) and https://www.fara.us/resources-criminal 
 
-## Bookniga Heads Convicted By Jury:
-The Bookniga case is the first case to be prosecuted due to FARA, and the only case we cover from before the war. Interestingly, despite the original concern over German influence in the 1935 McCormack-Dickenstein report, the first case covers Soviet propaganda, though that could be because of the two nations' difference in philosophy, with the Soviets choosing to be more secretive and not officially registering their allies as Foreign Agents. Regardless, in the article, we see how the press refers to FARA in the early days, with it being referred to as the McCormack Act. Despite this, in all future references to the law, it's almost exclusively referenced to as the Foreign Agent law, showing the change in understanding of the law. Further, the article, when speaking on the purpose of the law, states that its purpose was to reveal propagandists within the US, and not necessarily their prosecution. With the Bookniga heads only being prosecuted due to their failure to register as agents.
-
-{% include media_next.html pages=media %}
-
-Transcription:
-
-### Bookniga Convicted by Jury
-
-#### Lisking, Rush, and Weinberg Guilty of Failing to Register as Soviet Agents
-
-WASHINGTON, July 1—Morris Liskin, president; Raphael Rush, vice president, and Norman Weinberg, secretary-treasurer of the Bookniga Corporation of New York, were found guilty tonight by a jury in the District of Columbia Federal Court of conspiracy to prevent the corporation from registering with the Department of State as propaganda agents of a foreign government, as required by the McCormack act. Rush was found guilty on both counts of the indictment, the first count involving failure of the corporation to register and Rush's part in it and the second count charging criminal conspiracy to evade the act. Rush can be fined $1,000 and sentenced to two years in prison on the first count and fined $10,000 and get two years in prison on the second. Weinberg was found guilty only on the first count. Liskin already had pleaded guilty to the same count and been fined $500 but he was convicted on the second and faces a further penalty of $10,000 fine and two years in jail. Justice F. Dickinson Letts, before whom the case was tried, refused bail and ordered the three committed to jail to await sentence. He commended the jury for its verdict. The case is the first that has been prosecuted under the McCormack act. Justice Letts in charging the jury stated that the purpose of Congress in passing the McCormack act was to force out into the open propaganda agents who had been operating under various subterfuges and disguises. He instructed the jurors that the government was under no necessity to produce any formal agreement to establish the fact of a conspiracy, but might prove guilt by circumstantial evidence. During the morning session Leo A. Rover, defense counsel, pleaded the cause of Weinberg, stressing that he was under 21 when his father bought stock for him in the corporation. He contended that the religion of both father and son made it absurd to suppose the defendant could have been in sympathy with the spread of Communist doctrines. In final rebuttal, Benjamin M. Parker, special prosecutor representing the Attorney General, warned the jurors against permitting sympathy to sway their deliberations. "We are here, the government of the United States is here, because the government has been defied by propagandists working for the Soviet and spreading Communist doctrines," he said. “They were selling and spreading their pernicious propaganda in order to destroy us."
-
-## Guilty As Foreign Agent:
-In this article, we hear once again about the case against the Bookniga corporation. What's most interesting about this article is its title. While not entirely untrue, it implies that being a foreign agent makes you guilty, which, according to FARA, is not necessarily true. It's this trend of associating guilt with being a Foreign Agent that would result in unintended consequences in the future.
-
-{% include media_next.html pages=media %}
-
-Transcription:
-
-### Guilty As Foreign Agent
-
-#### Representative of Moscow Book House Failed to Register
-
- WASHINGTON, Dec.19 (UP)—Morris Liskin, President of the Bookniga Corporation, New York, pleaded guilty in District Court today to one count of an indictment charging him with failure to register with the State Department as a foreign agent. He pleaded not guilty to a second count accusing him of conspiring with two other officers of the corporation, also indicted Saturday, to evade registration. Norman Weimberg, secretary-treasurer of the corporation, pleaded not guilty to both counts. Justice Peyton Gordon held both on a $1,000 bond each. Also indicted was Raphael Rush, a vice president. He is in California fighting extradition. Bookniga was described in the indictment as the distributing agency in the United States for the literature and propaganda of a Moscow publishing house. The indictments were the first obtained in the Justice Department's campaign against unregistered foreign agents.
-
 ## Vierick Convicted Of False Registry:
 George Vierick serves as an interesting case among the early period of FARA. While Vierick had been registered as a foreign agent, he was still indicted for failure to provide all of the details of his actions as a foreign agent. Vierick, a long-time German apologist, had throughout his life released multiple pieces of propaganda for Germany. After the passing of FARA, Vierick would register as a foreign agent, yet despite this, he would be charged with failing to register because he hid his involvement in writing speeches for former Senator Lundeen. Vierick’s case shows the government’s unwillingness to give any leniency towards failure for complete registration of foreign agents.
 
@@ -269,9 +195,7 @@ WASHINGTON, March 5—George Sylvester Vierick, alleged to be a leading propagan
 The defendant's attorneys said that they would seek a new trial, and if denied one, would appeal the case. The case went to a jury after an argument by the defense that the government had made no showing that Viereck had engaged in unlawful or un-American activities. In reply, Special Prosecutor William Power Maloney said that there was clear evidence that the defendant was "the American mouthpiece of the Nazis in Berlin, the American apostle of the murderous, lying rogues of the Wilhelmstrasse." Vierick, 57 years old, registered with the State Department as "an author and journalist," giving a Munich newspaper and the German Library of Information as his employers. He was born in Germany but came to this country as a child and is an American citizen. The government charged that he directed a propaganda system which included the distribution of pro-German and anti-British matter under congressional franks. In that connection, the government presented witnesses during the twelve-day trial who testified that Viereck wrote one or more speeches for the late Senator Lundeen of Minnesota and that these were mailed under Congressional franks by George Hill, a clerk in the office of Representative Fish of New York. Hill was convicted last month of perjury for telling a grand jury that he was not acquainted with Viereck. Mr. Fish testified that Hill's mailing activities were a purely private business not connected with employment in his office. As he recalled to the jury the government's evidence, Mr. Maloney made this reference to the New York Representative:
 "Congressman Fish, that windy warrior who cowered in his tent while his poor, unfortunate clerk took the rap." Viereck did not take the stand for the defense. His counsel undertook to show that prior to Pearl Harbor, both advocates and opponents of the Administration's foreign policy made use of the free Congressional mailing privilege to distribute their views. Justice Letts ruled, however, that what others had done was irrelevant to the charge against Viereck.
 
-#### Long an Apologist for Germany
-
-Viereck's background is unimportant for this particular project, so not included. If you would like to learn more about George Viereck, you can find out more about his case and about him here: https://www.fara.us/resources-criminal and https://en.wikipedia.org/wiki/George_Sylvester_Viereck
+The next section covered Viereck's background, which is unimportant for this particular project, so not included. If you would like to learn more about George Viereck, you can find out more about his case and about him here: https://www.fara.us/resources-criminal and https://en.wikipedia.org/wiki/George_Sylvester_Viereck
 
 # About this Source
 
