@@ -17,6 +17,6 @@ credit_(IPTC): The New York Times
 date_created_(IPTC): July 2, 1941
 
 _path: /assets/img/Six_indicted_as_Japan_agents_cropped_page-0001.JPG
-order: '01'
+order: '06'
 layout: image_description
 ---
