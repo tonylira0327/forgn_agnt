@@ -10,13 +10,13 @@ _date: October 21, 1938
 rights: All rights reserved to The New York Times
 type: Newspaper
 source: The New York Times 
-identifier: Reel XXXX, University of Illinois Newspaper Library microfilm collection
+identifier: University of Illinois Newspaper Library microfilm collection
 contributor: The University of Illinois Newspaper Library
 format: Scanned from the University of Illinois library
 credit_(IPTC): The New York Times
 date_created_(IPTC): October 21, 1938
 
 _path: /assets/img/ALIENS ARE ORDERED TO REGISTER PG.1 & 2.jpg
-order: '07'
+order: '01'
 layout: image_description
 ---
