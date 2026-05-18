@@ -16,7 +16,7 @@ format: Scanned from the University of Illinois library
 credit_(IPTC): The New York Times
 date_created_(IPTC): October 21, 1938
 
-_path: /assets/img/ALIENS ARE ORDERED TO REGISTER PG.1 & 2.jpg
-order: '01'
+_path: /assets/img/CLARIFICATION OF THE STATS OF FA_page-0001.jpg
+order: '02'
 layout: image_description
 ---
