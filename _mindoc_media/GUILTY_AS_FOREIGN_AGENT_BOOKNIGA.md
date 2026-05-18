@@ -17,6 +17,6 @@ credit_(IPTC): The New York Times
 date_created_(IPTC): December 18, 1941
 
 _path: /assets/img/GUILTY_AS_FOREIGN_AGENT_BOOKNIGA.jpg
-order: '04'
+order: '05'
 layout: image_description
 ---
